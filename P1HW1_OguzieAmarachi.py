@@ -1,7 +1,7 @@
 # Oguzie Amarachi
 # Date: 03/02/2025
 # P1HW1 Instructions
-# Description: This program performs exponentiation and basic arithmetic operations based on user input and displays the results in a formatted manner.
+# Description: This program performs exponentiation and basic arithmetic operations based on user input and displays the results.
 print("-----Calculating Exponents----")
 
 base = int(input("Enter an integer as the base value: "))
