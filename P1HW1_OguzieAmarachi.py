@@ -1,4 +1,4 @@
-# Oguzie Amarachi
+#Name: Oguzie Amarachi
 # Date: 03/02/2025
 # P1HW1 Instructions
 # Description: This program performs exponentiation and basic arithmetic operations based on user input and displays the results.
